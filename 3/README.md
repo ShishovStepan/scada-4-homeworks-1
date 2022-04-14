@@ -23,10 +23,9 @@
 
 ### Инструкция к заданию
 
-1. Скачайте эмулятор ПЛК [Modbus Slave](https://www.modbustools.com/download.html) согласно [инструкции](https://docs.google.com/document/d/1I2sjAwapq-BwDyCT3sZbfYhMfNBALL6jJ4c5-oECevU/edit?usp=sharing), проведите установку ПО.
-2. Откройте в Modbus Slave [проекты эмуляции ПЛК (4 шт.)](https://drive.google.com/drive/folders/1OXjO8pzdHCP9vEJVN65R6EN0GAurRmCg?usp=sharing) по [инструкции](https://docs.google.com/presentation/d/10vHAmEqL6PK2pcvGtXgm0Kb8tHrJsfkSvUf8jF0qyMQ/edit?usp=sharing).
-3. Скачайте [MasterOPC](https://insat.ru/products/?category=1666) согласно [инструкции](https://docs.google.com/document/d/1GyRE9AtVmFUKmTHmrFAUws_D4Via7dIOoihddZAo-qM/edit?usp=sharing), проведите установку ПО.
-4. Скачайте [MasterSCADA 4D](https://masterscada.ru/download4) согласно [инструкции](https://docs.google.com/document/d/1lB2ACRR5TrPz_S0To14f7vAOfKgDi3dimUQFa41Zai4/edit?usp=sharing), проведите установку ПО.
+1. Скачайте [MasterOPC](https://insat.ru/products/?category=1666) согласно [инструкции](https://docs.google.com/document/d/1GyRE9AtVmFUKmTHmrFAUws_D4Via7dIOoihddZAo-qM/edit?usp=sharing), проведите установку ПО.
+2. В качестве эмулятора ПЛК используйте MODRSSIM (устанавливается вместе с MasterOPC) по инструкции https://docs.google.com/document/d/1565PULazs0y-ayGRdcB-t3gqV5X2I5JZoA7Ygz-PKe0/edit?usp=sharing
+3. Скачайте [MasterSCADA 4D](https://masterscada.ru/download4) согласно [инструкции](https://docs.google.com/document/d/1lB2ACRR5TrPz_S0To14f7vAOfKgDi3dimUQFa41Zai4/edit?usp=sharing), проведите установку ПО.
 5. Выполните задания 1 и 2.
 6. Для проверки домашнего задания преподавателем отправьте ссылку на ваш проект OPC-сервера в личном кабинете.
 7. Любые вопросы по решению задач задавайте в чате учебной группы.
@@ -36,15 +35,11 @@
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
 1. [Google Drive](https://www.google.com/intl/ru/drive/)
-2. Эмулятор ПЛК - Modbus Slave:
-- [Modbus Slave Install 64bit](https://www.modbustools.com/download/ModbusSlaveSetup64Bit.exe "ModbusSlave Install 64bit") 
-- [Modbus Slave Install 32bit](https://www.modbustools.com/download/ModbusSlaveSetup32Bit.exe "ModbusSlave Install 32bit")
-3. [Проекты эмуляции](https://drive.google.com/drive/folders/1OXjO8pzdHCP9vEJVN65R6EN0GAurRmCg?usp=sharing)
-4. [MasterOPC](https://insat.ru/products/?category=1666)
-5. [MasterSCADA 4D](https://masterscada.ru/download4)
-6. Инструкции:
-- [Инструкция по загрузке ПО Modbus Slave](https://docs.google.com/document/d/1I2sjAwapq-BwDyCT3sZbfYhMfNBALL6jJ4c5-oECevU/edit?usp=sharing)
-- [Инструкция по работе с Modbus Slave](https://docs.google.com/presentation/d/10vHAmEqL6PK2pcvGtXgm0Kb8tHrJsfkSvUf8jF0qyMQ/edit?usp=sharing)
+2. Эмулятор ПЛК - MODRSSIM
+3. [MasterOPC](https://insat.ru/products/?category=1666)
+4. [MasterSCADA 4D](https://masterscada.ru/download4)
+5. Инструкции:
+- [Инструкция по работе с MODRSSIM](https://docs.google.com/document/d/1565PULazs0y-ayGRdcB-t3gqV5X2I5JZoA7Ygz-PKe0/edit?usp=sharing)
 - [Инструкция по загрузке ПО MasterOPC](https://docs.google.com/document/d/1GyRE9AtVmFUKmTHmrFAUws_D4Via7dIOoihddZAo-qM/edit?usp=sharing)
 - [Инструкция по загрузке ПО MastersSCADA 4D](https://docs.google.com/document/d/1lB2ACRR5TrPz_S0To14f7vAOfKgDi3dimUQFa41Zai4/edit?usp=sharing)
 
@@ -52,7 +47,7 @@
 
 ### Задание 1
 
-1. В MasterOPC создайте OPC-сервер с доступом по OPC UA и подключите все теги из проектов Master Slave.
+1. В MasterOPC создайте OPC-сервер и подключите все теги из проектов MODDRSIM.
 2. Запустите MasterOPC в режиме исполнения и проверьте обмен данными с MasterSlave (8-DI, 8-DO, 8-AI и 8-AO тегов).
 3. Для тегов AI  применить функцию пересчета по формулам:
 - для адреса 0 - 10*X
@@ -72,7 +67,7 @@
 1. Загрузите все теги из OPC-сервера в проект MasterSCADA.
 1. Настройте связь с OPC HDA-сервером, созданном в MasterOPC.
 1. Загрузите все теги из OPC-сервера в проект MasterSCADA.
-1. Поверьте обмен данными в режиме исполнения MasterSCADA (Master Slave - MasterOPC - MasterSCADA).
+1. Поверьте обмен данными в режиме исполнения MasterSCADA (MODRSSIM - MasterOPC - MasterSCADA).
 
 
 ------
@@ -90,7 +85,7 @@
 Зачет ставится, если созданный проект MasterSCADA соответствует следующим критериям:
 
 1. В MasterOPC созданы OPC UA, OPC DA и OPC HDA-серверы.
-1. В режиме исполнения MasterOPC отражаются изменения всех тегов из эмулятора ПЛК Modbus Slave согласно типу данных и режиму чтение/запись.
+1. В режиме исполнения MasterOPC отражаются изменения всех тегов из эмулятора ПЛК MODRSSIM согласно типу данных и режиму чтение/запись.
 1. В MasterSCADA 4D создан проект.
 1. В проекте MasterSCADA 4D настроена связь с OPC UA, DA и HDA MasterOPC.
 1. В проекте MasterSCADA 4D загружены все теги из OPC сервера MasterOPC.
