@@ -35,9 +35,10 @@ AVEVA Wonderware является одним из лидеров по разра
 
 1. Google.Диск
 2. Google.Документы
-3. [.NET Framework]()
+3. [.NET Framework](https://support.microsoft.com/ru-ru/topic/microsoft-net-framework-4-8-%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%89%D0%B8%D0%BA-%D0%B4%D0%BB%D1%8F-windows-9d23f658-3b97-68ab-d013-aa3c3e7495e0)
 4. [AVEVA Edge](https://drive.google.com/drive/folders/1aGQvSz04BEAZFBLIdxeZwAiXZZRKHYj4?usp=sharing)
-5. [Шаблон для домашнего задания](https://docs.google.com/document/d/17NMApsPhhf4vsnDDtFg3SyEir1uqEVdPAWIn3KVicIk/edit?usp=sharing)
+5. [Инструкция по установке AVEVA Edge](https://docs.google.com/presentation/d/10pURrRI7lO3BO5YweXTOCHEln-TlFRwXfhIYO47FKpg/edit?usp=sharing)
+6. [Шаблон для домашнего задания](https://docs.google.com/document/d/17NMApsPhhf4vsnDDtFg3SyEir1uqEVdPAWIn3KVicIk/edit?usp=sharing)
 
 ------
 
@@ -60,7 +61,7 @@ AVEVA Wonderware является одним из лидеров по разра
 
 1. Отправлена ссылка на документ (Google Doc) с выполненным заданием в личном кабинете.
 2. Документ размещён на личном Google Disk.
-3. К документу настроены права доступа “Просматривать могут все в Интернете, у кого есть ссылка”.
+3. К документу настроены права доступа «Просматривать могут все в Интернете, у кого есть ссылка».
 
 ------
 
