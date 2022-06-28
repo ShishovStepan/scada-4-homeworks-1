@@ -42,7 +42,8 @@
 3. Google документы.
 
 ------
-#### [Шаблон выполнения задания]
+#### Шаблоны для выполнения задания
+
 1. [Домашнее задание_SCADA-система](https://docs.google.com/presentation/d/13YsoRdDblTP6Fo5f2yYAFzp5Jb3JNh3a1-FAPviO8dY/edit?usp=sharing)
 2. [Чеклист к домашнему заданию](https://docs.google.com/document/d/15CTEXO1hrDP8s88pEM3Fq_z9B5Nv2n2EbzoT-wIeiJY/edit?usp=sharing)
 
