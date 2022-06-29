@@ -32,7 +32,7 @@
 1. [Конфигуратор СП300](https://owen.ru/license-file?f=https://www.owen.ru/upl_files/PO/SP300_project_V2.D3k-5.zip)
 1. [Cisco Packet Tracer](https://www.netacad.com/ru/courses/packet-tracer)
 1. [Документ на закупку для задания 1](https://docs.google.com/spreadsheets/d/1Ih_-mCGzfW3cF6gGTHU2iP1vPlzDokyZxKrSygQIYl4/edit?usp=sharing)
-1. [Инструкция по пользованию сайтами постащиков оборудования HMI](https://docs.google.com/presentation/d/1Fu3dxOV74jE7xlqg93X995V9VFys8KnBgZF97C30lzI/edit?usp=sharing)
+1. [Инструкция по пользованию сайтами постащиков оборудования HMI](https://docs.google.com/presentation/d/1F4vQHjKqPY_StbscL3Xb_Y1u2nsXxXmnnMarEq8DFxw/edit?usp=sharing)
 1. [Технические задания для задания 2](https://docs.google.com/document/d/1tr5M0f4cRKe0RDsGPCH5zHCxJCZtPffaNEIwx80CEks/edit?usp=sharing)
 1. [Шаблон для домашнего задания](https://docs.google.com/document/d/1nRHcTF_EHkOlZ2-IqiSau9f950M-xMRWYwMO3OizU7A/edit?usp=sharing)
 
@@ -49,7 +49,7 @@
 
 Подберите необходимое оборудование, соответствующее требованиям. Заказные номера внесите в [документ на закупку](https://docs.google.com/spreadsheets/d/1Ih_-mCGzfW3cF6gGTHU2iP1vPlzDokyZxKrSygQIYl4/edit?usp=sharing), предварительно сделав его копию себе на диск.
 
-Общую инструкцию по пользованию сайтами основных постащиков оборудования HMI вы сможете найти по [ссылке](https://docs.google.com/presentation/d/1Fu3dxOV74jE7xlqg93X995V9VFys8KnBgZF97C30lzI/edit?usp=sharing). 
+Общую инструкцию по пользованию сайтами основных постащиков оборудования HMI вы сможете найти по [ссылке](https://docs.google.com/presentation/d/1F4vQHjKqPY_StbscL3Xb_Y1u2nsXxXmnnMarEq8DFxw/edit?usp=sharing). 
 
 2.* (необязательное задание) Спроектируйте схему топологии сети подобранных ранее панелей в любом удобном ПО, например [Cisco Packet Tracer](https://www.netacad.com/ru/courses/packet-tracer) или MS Visio). Также добавьте в топологию сети 3 PLC-контроллера (SIEMENS, ALLEN BRADLEY, OMRON). Каждый из этих контроллеров связан с системой HMI по сети Ethernet / Profinet своей фирмы-производителя.
 
