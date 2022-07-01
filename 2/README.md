@@ -33,7 +33,7 @@
 1. [Cisco Packet Tracer](https://www.netacad.com/ru/courses/packet-tracer)
 1. [Документ на закупку для задания 1](https://docs.google.com/spreadsheets/d/1Ih_-mCGzfW3cF6gGTHU2iP1vPlzDokyZxKrSygQIYl4/edit?usp=sharing)
 1. [Инструкция по пользованию сайтами постащиков оборудования HMI](https://docs.google.com/presentation/d/1F4vQHjKqPY_StbscL3Xb_Y1u2nsXxXmnnMarEq8DFxw/edit?usp=sharing)
-1. [Технические задания для задания 2](https://docs.google.com/document/d/1tr5M0f4cRKe0RDsGPCH5zHCxJCZtPffaNEIwx80CEks/edit?usp=sharing)
+1. [Технические задания для задания 2](https://docs.google.com/document/d/1L1uxjRuVJC4v2dyChpJliah0JY6sr6H47sSHIdrdt5U/edit?usp=sharing)
 1. [Шаблон для домашнего задания](https://docs.google.com/document/d/1nRHcTF_EHkOlZ2-IqiSau9f950M-xMRWYwMO3OizU7A/edit?usp=sharing)
 
 -----
@@ -67,7 +67,7 @@
 
 Объём - 3-5 экранов HMI, включающий в себя *основной экран* (основной вид и главные параметры системы, указанные в ТЗ), *экран настроек системы управления* (настройки указаны в ТЗ), *список ошибок* (отображение ошибок, указанных в ТЗ) + 1-2 экрана HMI могут быть спроектированы на усмотрение студента.
 
-Технические задания можно найти по [этой ссылке](https://docs.google.com/document/d/1tr5M0f4cRKe0RDsGPCH5zHCxJCZtPffaNEIwx80CEks/edit?usp=sharing).
+Технические задания можно найти по [этой ссылке](https://docs.google.com/document/d/1L1uxjRuVJC4v2dyChpJliah0JY6sr6H47sSHIdrdt5U/edit?usp=sharing).
 
 Результатом выполнения данного задания будет проект, разработанный в программе Конфигуратор СП300, соответствующий техническому заданию. 
 
