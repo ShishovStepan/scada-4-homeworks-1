@@ -22,7 +22,7 @@
 
 ### Инструкция к заданию
 
-1. Сделайте копию [Домашнего задания_SCADA-система](https://docs.google.com/presentation/d/13YsoRdDblTP6Fo5f2yYAFzp5Jb3JNh3a1-FAPviO8dY/edit?usp=sharing) и [Чеклиста к домашнему заданию](https://docs.google.com/document/d/15CTEXO1hrDP8s88pEM3Fq_z9B5Nv2n2EbzoT-wIeiJY/edit?usp=sharing) себе на Google Disk.
+1. Сделайте копию [Домашнего задания_SCADA-система](https://docs.google.com/presentation/d/13YsoRdDblTP6Fo5f2yYAFzp5Jb3JNh3a1-FAPviO8dY/edit?usp=sharing) и [Чеклиста к домашнему заданию](https://docs.google.com/document/d/15CTEXO1hrDP8s88pEM3Fq_z9B5Nv2n2EbzoT-wIeiJY/edit?usp=sharing) себе на Google Диск.
 1. В названии файлов добавьте вашу фамилию и имя.
 1. Зайдите в «Настройки доступа» и выберите доступ «Просматривать могут все в Интернете, у кого есть ссылка». Ссылка на инструкцию [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop)
 1. В шаблоне [Домашнее задание_SCADA-система](https://docs.google.com/presentation/d/13YsoRdDblTP6Fo5f2yYAFzp5Jb3JNh3a1-FAPviO8dY/edit?usp=sharing) расставьте органы управления для каждой единицы оборудования. Обозначьте связи органов управления с оборудованием.
@@ -52,7 +52,7 @@
 ### Правила приёма работы
 
 1. Отправлена ссылка на документ (Google Doc) с выполненным заданием в личном кабинете.
-2. Документ размещён на личном Google Disk.
+2. Документ размещён на личном Google Диске.
 3. К документу настроены права доступа «Просматривать могут все в Интернете, у кого есть ссылка».
 
 
