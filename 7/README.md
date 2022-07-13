@@ -38,7 +38,7 @@ AVEVA Wonderware является одним из лидеров по разра
 3. [.NET Framework](https://support.microsoft.com/ru-ru/topic/microsoft-net-framework-4-8-%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%89%D0%B8%D0%BA-%D0%B4%D0%BB%D1%8F-windows-9d23f658-3b97-68ab-d013-aa3c3e7495e0)
 4. [AVEVA Edge](https://drive.google.com/drive/folders/1aGQvSz04BEAZFBLIdxeZwAiXZZRKHYj4?usp=sharing)
 5. [Инструкция по установке AVEVA Edge](https://docs.google.com/presentation/d/10pURrRI7lO3BO5YweXTOCHEln-TlFRwXfhIYO47FKpg/edit?usp=sharing)
-6. [Технические задания](https://docs.google.com/document/d/1v9VjOStreTUgDQxmjeN2uxN4HT-H_3lLLuYsg1mD7oI/edit?usp=sharing)
+6. [Технические задания](https://docs.google.com/document/d/1OwAmytIhG9SEL_1RuUEdrxpsRdJL4gyFxnIiDhwxrU0/edit?usp=sharing)
 7. [Пример проекта](https://drive.google.com/drive/folders/1AVXO2nqOtyFJj3crFaGUfS8_MzHtLmJZ?usp=sharing)
 6. [Шаблон для домашнего задания](https://docs.google.com/document/d/1Rp8LNabX7MlvtqD-ucmwq-0LE545-ikJU0_Js7-7V9Q/edit?usp=sharing)
 
@@ -51,7 +51,7 @@ AVEVA Wonderware является одним из лидеров по разра
 - разработка проекта автоматизации сбора данных со станков ЧПУ
 - разработка проекта автоматизации распределения запасных частей на складе.
 
-Технические задания, в которых прописаны требования к проекту и процесс его создания находятся по [этой ссылке](https://docs.google.com/document/d/1v9VjOStreTUgDQxmjeN2uxN4HT-H_3lLLuYsg1mD7oI/edit?usp=sharing).
+Технические задания, в которых прописаны требования к проекту и процесс его создания находятся по [этой ссылке](https://docs.google.com/document/d/1OwAmytIhG9SEL_1RuUEdrxpsRdJL4gyFxnIiDhwxrU0/edit?usp=sharing).
 
 Пример проекта, рассмотренного на занятии, вы можете найти [здесь](https://drive.google.com/drive/folders/1AVXO2nqOtyFJj3crFaGUfS8_MzHtLmJZ?usp=sharing).
 
