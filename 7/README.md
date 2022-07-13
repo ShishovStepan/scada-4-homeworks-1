@@ -6,7 +6,7 @@ AVEVA Wonderware является одним из лидеров по разра
 
 В результате выполнения задания вы:
 
-1. Сможете разработать собственный SCADA-проект в среде AVEVA Edge и проверить его работу.
+1. Разработаете собственный SCADA-проект в среде AVEVA Edge и проверить его работу.
 2. Научитесь работать с программными элементами и компонентами AVEVA Edge.
 
 ------
@@ -20,7 +20,7 @@ AVEVA Wonderware является одним из лидеров по разра
 
 ### Инструкция к заданию
 1. Выполните установку необходимых программных инструментов из **Чеклиста готовности к домашнему заданию**.
-2. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/17NMApsPhhf4vsnDDtFg3SyEir1uqEVdPAWIn3KVicIk/edit?usp=sharing) себе на Google Disk.
+2. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1Rp8LNabX7MlvtqD-ucmwq-0LE545-ikJU0_Js7-7V9Q/edit?usp=sharing) себе на Google Диск.
 3. В названии файла введите вашу фамилию и имя.
 4. Зайдите в «Настройки доступа» скопированного вами шаблона и выберите доступ «Просматривать могут все в Интернете, у кого есть ссылка». Ссылка на инструкцию [Как предоставить доступ к файлам и папкам на Google Диске](https://support.google.com/docs/answer/2494822?hl=ru&co=GENIE.Platform%3DDesktop).
 5. Скопируйте текст задания в свой документ.
@@ -38,7 +38,9 @@ AVEVA Wonderware является одним из лидеров по разра
 3. [.NET Framework](https://support.microsoft.com/ru-ru/topic/microsoft-net-framework-4-8-%D0%B0%D0%B2%D1%82%D0%BE%D0%BD%D0%BE%D0%BC%D0%BD%D1%8B%D0%B9-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%89%D0%B8%D0%BA-%D0%B4%D0%BB%D1%8F-windows-9d23f658-3b97-68ab-d013-aa3c3e7495e0)
 4. [AVEVA Edge](https://drive.google.com/drive/folders/1aGQvSz04BEAZFBLIdxeZwAiXZZRKHYj4?usp=sharing)
 5. [Инструкция по установке AVEVA Edge](https://docs.google.com/presentation/d/10pURrRI7lO3BO5YweXTOCHEln-TlFRwXfhIYO47FKpg/edit?usp=sharing)
-6. [Шаблон для домашнего задания](https://docs.google.com/document/d/17NMApsPhhf4vsnDDtFg3SyEir1uqEVdPAWIn3KVicIk/edit?usp=sharing)
+6. [Технические задания](https://docs.google.com/document/d/1v9VjOStreTUgDQxmjeN2uxN4HT-H_3lLLuYsg1mD7oI/edit?usp=sharing)
+7. [Пример проекта](https://drive.google.com/drive/folders/1AVXO2nqOtyFJj3crFaGUfS8_MzHtLmJZ?usp=sharing)
+6. [Шаблон для домашнего задания](https://docs.google.com/document/d/1Rp8LNabX7MlvtqD-ucmwq-0LE545-ikJU0_Js7-7V9Q/edit?usp=sharing)
 
 ------
 
@@ -60,7 +62,7 @@ AVEVA Wonderware является одним из лидеров по разра
 ### Правила приёма работы
 
 1. Отправлена ссылка на документ (Google Doc) с выполненным заданием в личном кабинете.
-2. Документ размещён на личном Google Disk.
+2. Документ размещён на личном Google Диске.
 3. К документу настроены права доступа «Просматривать могут все в Интернете, у кого есть ссылка».
 
 ------
