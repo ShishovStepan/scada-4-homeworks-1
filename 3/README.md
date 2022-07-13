@@ -24,7 +24,7 @@
 ### Инструкция к заданию
 
 1. Скачайте [MasterOPC](https://insat.ru/products/?category=1666) согласно [инструкции](https://docs.google.com/document/d/1GyRE9AtVmFUKmTHmrFAUws_D4Via7dIOoihddZAo-qM/edit?usp=sharing), проведите установку ПО.
-2. В качестве эмулятора ПЛК используйте MODRSSIM (устанавливается вместе с MasterOPC) по инструкции https://docs.google.com/document/d/1565PULazs0y-ayGRdcB-t3gqV5X2I5JZoA7Ygz-PKe0/edit?usp=sharing
+2. В качестве эмулятора ПЛК используйте MODRSSIM (устанавливается вместе с MasterOPC) по [инструкции](https://docs.google.com/document/d/1565PULazs0y-ayGRdcB-t3gqV5X2I5JZoA7Ygz-PKe0/edit?usp=sharing)
 3. Скачайте [MasterSCADA 4D](https://masterscada.ru/download4) согласно [инструкции](https://docs.google.com/document/d/1lB2ACRR5TrPz_S0To14f7vAOfKgDi3dimUQFa41Zai4/edit?usp=sharing), проведите установку ПО.
 5. Выполните задания 1 и 2.
 6. Для проверки домашнего задания преподавателем отправьте ссылку на ваш проект OPC-сервера в личном кабинете.
