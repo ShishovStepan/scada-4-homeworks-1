@@ -39,8 +39,7 @@ AVEVA Wonderware является одним из лидеров по разра
 4. [AVEVA Edge](https://drive.google.com/drive/folders/1aGQvSz04BEAZFBLIdxeZwAiXZZRKHYj4?usp=sharing)
 5. [Инструкция по установке AVEVA Edge](https://docs.google.com/presentation/d/10pURrRI7lO3BO5YweXTOCHEln-TlFRwXfhIYO47FKpg/edit?usp=sharing)
 6. [Технические задания](https://docs.google.com/document/d/1OwAmytIhG9SEL_1RuUEdrxpsRdJL4gyFxnIiDhwxrU0/edit?usp=sharing)
-7. [Пример проекта](https://drive.google.com/drive/folders/1AVXO2nqOtyFJj3crFaGUfS8_MzHtLmJZ?usp=sharing)
-6. [Шаблон для домашнего задания](https://docs.google.com/document/d/1Rp8LNabX7MlvtqD-ucmwq-0LE545-ikJU0_Js7-7V9Q/edit?usp=sharing)
+7. [Шаблон для домашнего задания](https://docs.google.com/document/d/1Rp8LNabX7MlvtqD-ucmwq-0LE545-ikJU0_Js7-7V9Q/edit?usp=sharing)
 
 ------
 
@@ -52,8 +51,6 @@ AVEVA Wonderware является одним из лидеров по разра
 - разработка проекта автоматизации распределения запасных частей на складе.
 
 Технические задания, в которых прописаны требования к проекту и процесс его создания находятся по [этой ссылке](https://docs.google.com/document/d/1OwAmytIhG9SEL_1RuUEdrxpsRdJL4gyFxnIiDhwxrU0/edit?usp=sharing).
-
-Пример проекта, рассмотренного на занятии, вы можете найти [здесь](https://drive.google.com/drive/folders/1AVXO2nqOtyFJj3crFaGUfS8_MzHtLmJZ?usp=sharing).
 
 Результатом выполнения данного задания будет проект, разработанный в программной среде AVEVA Edge в соответствии с выбранным техническим заданием.
 
