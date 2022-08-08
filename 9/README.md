@@ -13,6 +13,31 @@ Simatic WinCC (Windows Control Center) является системой HMI, т
 
 ------
 
+### Чеклист готовности к домашнему заданию
+
+1. Ознакомьтесь с лекцией PLC Siemens
+2. Зарегистрируйтесь на [портале Siemens](https://mall.industry.siemens.com/goos/WelcomePage.aspx?regionUrl=/ru&language=ru) и получите персональный логин и пароль для входа в систему. Процесс регистрации описан в [соответствующей инструкции](https://docs.google.com/presentation/d/1RPHvCE2OxBbHRMWSAV2E-HxscZvR2nRIZVHCy8hvjJE/edit?usp=sharing).
+3. Загрузите и установите программное обеспечение для создания проекта PLC Siemens, входящее в состав пакета TIA Portal с [официального ресурса Siemens](https://support.industry.siemens.com/cs/document/78793685/simatic-step-7-(tia-portal)-v13-trial-download?dti=0&lc=en-DE)
+<details>
+  <summary> Подсказка по установке (доступна по клику)</summary>
+  
+  
+1. Скачайте все файлы по [ссылке](https://support.industry.siemens.com/cs/document/109745155/simatic-step-7-including-plcsim-v13-sp2-trial-download?dti=0&lc=en-DE) в две отдельные папки:
+  - STEP 7 Professional V13 SP2 (DVD 1, DVD 2, SHA-256 checksum)
+  ![image](https://github.com/netology-code/phd-homeworks/blob/main/6.6/Step7_1.png)
+  - SIMATIC STEP 7 PLCSIM V13 SP2 for STEP 7 Basic and STEP 7 Professional (включая SHA-256 checksum)
+    ![image](https://github.com/netology-code/phd-homeworks/blob/main/6.6/Step7_2.png)
+2. Запустите установочный файл SIMATIC_STEP_7_Professional_V13_SP2_Upd4.exe, пройдите стандартную процедуру установки.
+3. Запустите установочный файл SIMATIC_S7_PLCSIM_V13_SP2.exe, пройдите стандартную процедуру установки.
+
+    ---
+  
+</details>
+  
+*ОБРАТИТЕ ВНИМАНИЕ! Устанавливается демо-версия программы. Её функционал будет ограничен спустя 21 день после установки. Рекомендуется установка софта на виртуальной машине. Как это сделать, описано в [инструкции](https://docs.google.com/presentation/d/1psnSlotXT7cr8ECnaZaTCDLnIyYOGUzCArLeydeRztY/edit?usp=sharing).*
+
+------
+
 ### Инструкция к заданию
 
 1. Сделайте копию [Шаблона для домашнего задания](https://docs.google.com/document/d/1zMiXFVbQfThpDjIDXWCMfFhiItf6xTUbK7sXsEp7NPo/edit?usp=sharing) себе на Google Диск.
@@ -27,56 +52,42 @@ Simatic WinCC (Windows Control Center) является системой HMI, т
 
 ### Инструменты/ дополнительные материалы, которые пригодятся для выполнения задания
 
-1. [WinCC](https://support.industry.siemens.com/cs/document/67797298/simatic-wincc-v12-trial-download?dti=0&lc=en-WW)
-2. [Инструкция по регистрации для WinCC](https://docs.google.com/document/d/1T1w7rYufd_u8RXzDMTJZgvqz1lyzFY3CxFOv_gRW9ZI/edit?usp=sharing)
+1. [TIA Portal v13](https://support.industry.siemens.com/cs/document/78793685/simatic-step-7-(tia-portal)-v13-trial-download?dti=0&lc=en-DE)
+2. [Инструкция по созданию виртуальной машины](https://docs.google.com/presentation/d/1psnSlotXT7cr8ECnaZaTCDLnIyYOGUzCArLeydeRztY/edit?usp=sharing)
 3. [Шаблон для домашнего задания](https://docs.google.com/document/d/1zMiXFVbQfThpDjIDXWCMfFhiItf6xTUbK7sXsEp7NPo/edit?usp=sharing)
 
 -----
 
-### Задание 1 (окна Simatic)
+### Задание 1 (работа с девайсами)
 
-При создании проекта WinCC разработчик выбрал дерево окон, как на рисунке «Page_1»
-В процессе настройки окон ему потребовалось сделать перестройку дерева окон. Пример необходимой перестройки виден на рисунке «Page_2».
+В процессе работы в WinCC разработчику потребовалось изменить тип HMI-панели.
+Опишите, какими способами это можно выполнить, не создавая проект заново. 
 
-![image](https://user-images.githubusercontent.com/99606697/162718289-8d60f496-7093-4971-a765-9aac6336e3e1.png) ![image](https://user-images.githubusercontent.com/99606697/162718347-f550da01-e6c5-4c87-b037-01b2e70738be.png)
-
-Опишите, как внутри проекта WinCC разработчик может изменить последовательность окон, не создавая проект заново.
-
-Приведите ответ в свободной форме. Скрины приветствуются.
+Приведите ответ в свободной письменной форме. Скриншоты приветствуются.
 
 ------
 
-### Задание 2 (поиск ошибки при загрузке проекта в режиме Runtime)
+### Задание 2 (создание проекта WinCC)
 
-При попытке открыть проект в режиме  «start runtime system» разработчик видит ошибку «Параметры системной функции для «SetBit» потеряны или неправильного типа»
-Объясните, в чем может быть проблема и как её исправить
-![image](https://user-images.githubusercontent.com/99606697/162719589-35bc0e4b-eb44-4a24-94cf-3967168492fe.png)
-
-Приведите ответ в письменной форме. Скрины приветствуются.
-
-------
-
-### Задание 3 (интеграция в Step7)
-
-Опишите 2 варианта интеграции проекта WinCC в Step7.
+Опишите своими словами 2 варианта создания проекта WinCC, которые вы изучили на лекции.
 
 Приведите ответ в свободной письменной форме.
 
 ------
 
-### Задание 4 (создание проекта в WinCC)
+### Задание 3 (создание проекта в WinCC)
 
-1.	Создайте собственный проект WinCC, следуя шагам, описанным в лекции (вопрос 2 лекции).
-2.	При создании проекта:
-- выберите маленькую машину (Small machine)
-- выберите мультипанель MP 270 10”Touch и контроллер Simatic S7 300\400
-- выберите любые характеристики для Screen Template
-- добавьте для проекта 2 дополнительных экрана
-- выберите любые характеристики для System Screens
-- выберите доступные библиотеки
-- задайте имя Вашему проекту: это должны быть ваши фамилия и имя
+1.	Создайте собственный проект WinCC, следуя шагам, описанным в лекции.
+2.	Что должно присутствовать в проекте:
+a. имя проекта – фаши фамилия и инициалы
+b. 2 зоны и 6 модулей
+c. кнопка старта и остановки линии
+d. аварийный стоп
+e. окно с ошибками (ошибки должны генерироваться при помощи симулятора)
+f. каждый экран должен иметь кнопку перехода на соседние экраны
 
-Пришлите скрин из открытого проекта.
+Пришлите бэкап готового проекта.
+Вы можете прислать скрины, но по ним должны быть видны выполненные шаги a-f пункта 2 задания.
 
 ------
 
