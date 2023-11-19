@@ -19,8 +19,8 @@
 
 ### Инструкция к заданию
 
-1. Скачайте [MasterSCADA 4D](https://masterscada.ru/download4) согласно [инструкции](https://docs.google.com/document/d/1Xj7_yWK_aZYy-l4acrME1y48uKVGcpeCP_gBhgOMJCo/edit?usp=sharing), проведите установку ПО.
-1. Откройте [проект MasterSCADA 4D](https://drive.google.com/drive/folders/1mpRXrxIKTLdCfWZxI85PLOQnNzhSY3cG?usp=sharing).
+1. Скачайте [MasterSCADA 4D](https://masterscada.ru/download4) согласно [инструкции](https://docs.google.com/document/d/1Xj7_yWK_aZYy-l4acrME1y48uKVGcpeCP_gBhgOMJCo/edit?usp=sharing)., проведите установку ПО.
+1. Откройте [проект MasterSCADA 4D](https://drive.google.com/drive/folders/1mpRXrxIKTLdCfWZxI85PLOQnNzhSY3cG?usp=sharing)  и  [проект ОРС сервера](https://drive.google.com/file/d/1rFs_QmPsg-GcO1SvxyquSLYjS7x4NRdj/view?usp=sharing).
 1. В проекте MasterSCADA создайте мнемосхему и привяжите элементы к тегам OPC-сервера согласно заданию.
 1. Для проверки домашнего задания преподавателем отправьте ссылку на ваш документ в личном кабинете.
 1. Любые вопросы по решению задач задавайте в чате учебной группы.
